@@ -388,7 +388,13 @@ class _HomeScreenState extends State<HomeScreen> {
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: <Widget>[
-                        Container(child: Text(item.name)),
+                        Container(
+                          child: Text(
+                            item.name,
+                            style:
+                                TextStyle(fontFamily: 'Crimson', fontSize: 18),
+                          ),
+                        ),
                         Container(
                           child: Icon(
                             Icons.favorite,
