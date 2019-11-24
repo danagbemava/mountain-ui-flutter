@@ -1,6 +1,16 @@
 # mountain_ui
 
-A new Flutter project.
+I found this ui design on dribble and I decided to build it in flutter. 
+
+![](https://dribbble.com/shots/8249638-Travel-App) 
+
+
+Screenshots are available in the screenshots folder
+
+###ScreenShots
+![](screenshots/intro.png)
+![](screenshots/home.png)
+![](screenshots/details.png)
 
 ## Getting Started
 
